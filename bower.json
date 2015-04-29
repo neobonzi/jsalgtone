@@ -1,0 +1,13 @@
+{
+  "name": "jalgtone",
+  "version": "0.0.1",
+  "dependencies": {
+    "flocking": "git://github.com/colinbdclark/Flocking.git",
+    "victor": "~0.2.6",
+    "jcanvas": "~14.11.25"
+  },
+  "devDependencies": {
+    "qunit": "~1.18.0",
+    "requirejs": "~2.1.17"
+  }
+}
